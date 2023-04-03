@@ -9,7 +9,7 @@ I'm a student in Data Engineering and Artificial Intelligence, passionate about 
 ## 💻 Skills
 - **Languages**: Python, Java, SQL, R, C, JS
 - **Machine Learning**: Deep Learning, scikit-learn, TensorFlow, Keras, NLP, Computer Vision
-- **Web & Mobile Dev**: HTML, CSS, jQuery, Flutter, 
+- **Web & Mobile Dev**: HTML, CSS, jQuery, php, Flutter 
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
 ## 🚀 Projects
