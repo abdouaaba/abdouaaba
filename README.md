@@ -9,8 +9,10 @@ I'm a student in Data Engineering and Artificial Intelligence, passionate about 
 ## 💻 Skills
 - **Languages**: Python, Java, SQL, R, C, JS
 - **Machine Learning**: Deep Learning, scikit-learn, TensorFlow, Keras, NLP, Computer Vision
-- **Web & Mobile Dev**: HTML, CSS, jQuery, php, Flutter 
-- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Big Data**: PySpark, Kafka
+- **Cloud**: AWS, Azure
+- **Databases**: MySQL, MongoDB
+- **Web & Mobile Dev**: HTML, CSS, Flask, django, jQuery, php, Flutter 
 
 ## 🚀 Projects
 - **Wildfire Burn Scars Segmentation** - SegNet model to segment the burn scars of a wildfire in satellite images
