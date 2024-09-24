@@ -1,9 +1,9 @@
 # Hello, World! 👋🏽 I'm Abdelghani Aaba 🤖
 
-I'm a student in Data Engineering and Artificial Intelligence, passionate about using data to create innovative solutions for real-world problems. Here's a little more about me:
+Recent graduate eager to apply my skills in AI and Data to challenging projects. Proven ability to learn quickly and deliver impactful results in fast-paced environments. Seeking opportunities to grow and contribute to the cutting-edge of AI technology.
 
 ## 🎓 Education
-- Pursuing an Engineering degree in Data Engineering and Artificial Intelligence from ENSA Safi
+- Engineering degree in Data Engineering and Artificial Intelligence from ENSA Safi
 - Relevant coursework: Machine Learning, Data Structures, Algorithms, Databases, and Software Engineering
 
 ## 💻 Skills
